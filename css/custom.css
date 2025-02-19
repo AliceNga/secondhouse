@@ -1,0 +1,25 @@
+/* Testimonials Section Styles */
+.testimonial-text {
+    font-style: italic;
+    margin: 20px 0;
+    padding: 0 20px;
+}
+
+.btn-circle {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#testimonials .team-member {
+    margin-bottom: 3rem;
+    text-align: center;
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
